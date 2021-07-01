@@ -7,6 +7,3 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img align="center" width="850px" src="https://github-profile-trophy-uqbn.vercel.app/?username=uqbn&no-frame=true&column=7" />
 </a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img align="center" width="850px" src="https://activity-graph-uqbn.herokuapp.com/graph?username=uqbn&hide_title=true&hide_border=true&area=true&theme=github-light" />
-</a>
