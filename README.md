@@ -1,4 +1,4 @@
-<h2 align="center">Hi there <img src="img/wave.gif" width="30px">, I am <a href="https://github.com/uqbn">uqbn</a>!</h2>
+<h2 align="center">Hi there <img src="img/wave.gif" width="30px">, I am <a href="https://github.com/uqbn">ᴜǫʙɴ</a>!</h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats-uqbn.vercel.app/api/top-langs/?username=uqbn&hide_title=true&layout=compact&langs_count=8" />
